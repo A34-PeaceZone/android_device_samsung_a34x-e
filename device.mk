@@ -5,7 +5,8 @@
 #
 PRODUCT_ENFORCE_VINTF_MANIFEST := false
 
-RELEASE_TELECOM_MAINLINE_MODULE := true
+PRODUCT_APEX_SYSTEM_SERVER_JARS += \
+    com.android.telephonycore:service-telecom
 
 # Exclude debugfs directories from OTA
 TARGET_EXCLUDES_DEBUGFS := true
