@@ -5,6 +5,8 @@
 #
 PRODUCT_ENFORCE_VINTF_MANIFEST := false
 
+RELEASE_TELECOM_MAINLINE_MODULE := true
+
 # Exclude debugfs directories from OTA
 TARGET_EXCLUDES_DEBUGFS := true
 
