@@ -23,7 +23,6 @@ dalvik.vm.dexopt.thermal-cutoff=2
 dalvik.vm.enable_pr_dexopt=true
 dalvik.vm.finalizer-timeout-ms=60000
 dalvik.vm.image-dex2oat-Xms=64m
-dalvik.vm.image-dex2oat-Xmx=64m
 dalvik.vm.lockprof.threshold=500
 dalvik.vm.madvise.artfile.size=4294967295
 dalvik.vm.madvise.odexfile.size=104857600
