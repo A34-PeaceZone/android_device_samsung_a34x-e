@@ -273,7 +273,6 @@ persist.log.tag.libmnlUtils=I
 persist.log.tag.mtkpower@impl=I
 persist.log.tag.mtkpower_client=I
 persist.log.tag.wpfa_iptable_android=I
-persist.sys.dalvik.vm.lib.2=libart.so
 persist.system.powerhal.applist_enable=1
 persist.vendor.camera3.pipeline.bufnum.base.imgo=3
 persist.vendor.camera3.pipeline.bufnum.base.lcso=4
